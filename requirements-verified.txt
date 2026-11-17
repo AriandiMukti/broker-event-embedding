@@ -1,0 +1,11 @@
+# Direct dependencies installed during publication verification.
+numpy==2.2.6
+pandas==2.3.3
+torch==2.14.1+cu126
+scikit-learn==1.4.2
+xlrd==2.0.1
+plotly==5.23.0
+matplotlib==3.10.9
+threadpoolctl==3.1.0
+lightgbm==4.5.0
+tabulate==0.10.0
